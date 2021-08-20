@@ -29,20 +29,6 @@
                 <th class="text-center">Amount</th>
                 <th class="text-center">Date & Time</th>
             </tr>
-            <tr>
-                <th class="text-center">1</th>
-                <th class="text-center">abhilash</th>
-                <th class="text-center">ankitha</th>
-                <th class="text-center">5000</th>
-                <th class="text-center">20-08-2021 17.45 PM</th>
-            </tr>
-            <tr>
-                <th class="text-center">2</th>
-                <th class="text-center">kapil</th>
-                <th class="text-center">raju</th>
-                <th class="text-center">1000</th>
-                <th class="text-center">20-08-2021 17.45 PM</th>
-</tr>
         </thead>
         <tbody>
         <?php
